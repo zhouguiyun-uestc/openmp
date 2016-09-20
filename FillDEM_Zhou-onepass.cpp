@@ -183,7 +183,7 @@ void FillDEM_Zhou_OnePass(char* inputFile, char* outputFilledPath)
 	int height = dem.Get_NY();
 	
 	timeStart = time(NULL);
-	std::cout<<"Using the one-pass implementation of the proposed variant to fill DEM"<<endl;
+	std::cout<<"Using the sequential Zhou variant to fill DEM"<<endl;
 
 
 	Flag flag;
