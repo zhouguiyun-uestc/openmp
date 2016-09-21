@@ -1,10 +1,6 @@
 OpenMP-based implementation of the parallel algorithm
 **Manuscript Title**: Parallel identification and filling of depressions in raster digital elevation models
 
-**Authors**: Guiyun Zhou, Xiaoli Liu, Suhua Fu, Zhongxuan Sun
-
-**Corresponding author**: Guiyun Zhou (zhouguiyun@uestc.edu.cn)
-
 This repository contains the source codes of the OpenMP-based implementation of the parallel algorithm presented in the manuscript above. These codes were used in performing the tests described in the manuscript.
 
 
