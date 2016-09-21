@@ -5,7 +5,7 @@ OpenMP-based implementation of the parallel algorithm
 This repository contains the source codes of the OpenMP-based implementation of the parallel algorithm presented in the manuscript above. These codes were used in performing the tests described in the manuscript.
 
 
-The codes support floating-point GeoTIFF file format through the GDAL library. Please include GDAL library into your compilation. GDAL 1.91 was used in our experiments.
+The codes support floating-point GeoTIFF file format through the GDAL library. Please include GDAL library into your compilation. 
 
 Example usages:
 
